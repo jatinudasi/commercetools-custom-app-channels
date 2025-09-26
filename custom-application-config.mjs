@@ -12,7 +12,7 @@ const config = {
       initialProjectKey: 'jatin-demo-project',
     },
     production: {
-      applicationId: 'TODO',
+      applicationId: 'cmfpthxqj002ttq01j3nlduzq',
       url: 'https://your_app_hostname.com',
     },
   },
